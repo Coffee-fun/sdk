@@ -9,7 +9,7 @@ pip install coffee-agent-kit
 ```
 OR 
 ```sh
-pip install install git+ssh://git@github.com/Ghost-Teams/coffee-lib.git
+pip install install git+ssh://git@github.com/Coffee-fun/sdk.git
 ```
 
 # Examples
